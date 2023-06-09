@@ -4,6 +4,7 @@ There are three categories of apps, which depend on the difficulty of the implem
 - Easy - roughly between 12 - 20 hours of making 
 - Medium - couple of days to make
 - Hard - could take weeks to make, maybe less - depends on the project
+
 In the files there are modules that send you to another repository, where I keep track of my work on the application.
 All apps are made for iOS 16 in Swift 5.8.
 
