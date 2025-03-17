@@ -6,7 +6,7 @@ There are three categories of apps, which depend on the difficulty of the implem
 - Hard - could take weeks to make, maybe less - depends on the project
 
 In the files there are modules that send you to another repository, where I keep track of my work on the application.
-All apps are made for iOS 16 in Swift 5.8.
+All apps are made for iOS 18 in Swift 6.
 
 ## Easy Apps
 This is a great start of my learning and seeing how I can improve on my app making skills.
